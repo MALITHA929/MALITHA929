@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there, I’m Malitha
 
-<!--
-**MALITHA929/MALITHA929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engineering Undergraduate | Electronics & Telecommunication**  
+🔧 Building projects with **ESP32, Arduino, Python & OpenCV**  
+🤖 Interested in **AI, Computer Vision, Robotics & Smart Hardware Systems**  
+🚀 Passionate about solving real-world problems through technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m working on
+- Robotics & automation projects  
+- Computer vision applications  
+- Hardware–software integrated solutions  
+
+---
+
+### 🌱 Currently learning
+- AI & vision-based automation  
+- Signal processing & communication systems  
+- Robotics fundamentals and control  
+
+---
+
+### ⚡ Mindset
+> Always learning, always building.
